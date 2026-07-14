@@ -15,4 +15,30 @@ Props - properties
 
 Conditional rendering 
 
-List 
+List
+
+React State - previos state, current state 
+
+i = 10; // 
+
+i = 20 //
+
+i = 40 //
+
+i = 60 
+
+i = 80 
+
+// state variable
+username : ganesh
+
+g
+ga
+gan
+gane
+ganes
+ganesh
+
+
+
+
