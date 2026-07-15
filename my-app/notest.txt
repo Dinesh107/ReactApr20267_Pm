@@ -40,5 +40,32 @@ ganes
 ganesh
 
 
+updating the state in object 
+
+update the state in array
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
