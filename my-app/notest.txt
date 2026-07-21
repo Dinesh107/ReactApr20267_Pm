@@ -49,6 +49,11 @@ useEffect
 
 React form 
 
+submit 
+
+multiple inputs in the form 
+
+simpify the onchange 
 
 
 
